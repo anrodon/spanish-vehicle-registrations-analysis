@@ -30,7 +30,7 @@ The data used for this project is the [Microdatos de Matriculaciones de Vehícul
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@anrodon/spains-bumpy-road-towards-electrification-86d4b5b7e838).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
